@@ -1,3 +1,4 @@
+
 #header{
     margin: auto;
 }
@@ -8,6 +9,15 @@
 .welcome{
     color: white;
     padding-left: 15%;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.pageLink{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
 }
 
 
@@ -36,6 +46,8 @@
     width: 315px;
     
 }
+
+
 
 .searchBar{
     padding-right: 15%;
@@ -68,12 +80,18 @@
     margin-left: 15%;
     margin-right: 20px;
     flex:1;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal
     
 }
 
 .tag1{
     flex: 1;
     padding-right: 10%;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal
     
 }
 
@@ -90,6 +108,10 @@
     text-align: center;
     margin-top: 5%;
     margin-bottom: 10%;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
     
 }
 
@@ -140,6 +162,9 @@
     padding-left: 8em;
     list-style-type: none;
     color: white;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
     
 }
 
@@ -147,6 +172,9 @@
     padding-left: 10em;
     list-style-type: none;
     color: white;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
     
     
     
@@ -160,12 +188,18 @@
 .newsLetter{
     padding-left: 20em;
     color: white;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
 }
 
 .copywrite{
     background-color: black;
     color: white;
     text-align: center;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
 }
 
 .cardImage{
@@ -173,10 +207,28 @@
     height: 100%;
 }
 
+h5{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
+}
+
+.productDeets{   
+    font-family: sofia-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal
+    
+}
+
 a.seeAll{
     color: black;
     margin-right: 15%;
     padding-top: 5px;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-decoration: none;
+    
 }
 
 a.seeAll:hover{
@@ -189,6 +241,13 @@ a.seeAll:hover{
 
 .wshopText{
     margin-left: 10%;
+}
+
+.wshopdeets{   
+   font-family: sofia-pro, sans-serif;
+   font-weight: 300;
+   font-style: normal;
+
 }
 
 .calendarStyle{
@@ -234,6 +293,9 @@ a.seeAll:hover{
 
 .priceInfo{
     margin-left: 25%;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
     
 }
 
@@ -253,6 +315,12 @@ a.seeAll:hover{
 .checkoutBtn{
     margin-top: 5%;
     
+}
+
+.productName{
+    font-family: sofia-pro, sans-serif;
+    font-weight: 600;
+    font-style: normal
 }
 
 /*Calendar plugin root styles*/
